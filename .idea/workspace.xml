@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfb3f963-2e03-4b0c-bfc1-d6d48eb41697" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Python-numpy" />
+  </component>
+  <component name="ProjectId" id="1WbUGXPfQpv6neZT8T0nXzJbvni" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AProjectS\Pyaaz\venv\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.numpybroad">
+    <configuration name="fu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyaaz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Eappliance\PythonAll\python376\python376.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/src/fu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numpyarry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyaaz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/src/numpyarry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numpybroad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyaaz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/src/numpybroad.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numpyses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyaaz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/src/numpyses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.numpybroad" />
+        <item itemvalue="Python.numpyarry" />
+        <item itemvalue="Python.numpyses" />
+        <item itemvalue="Python.fu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfb3f963-2e03-4b0c-bfc1-d6d48eb41697" name="Default Changelist" comment="" />
+      <created>1579417692051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579417692051</updated>
+      <workItem from="1579417701416" duration="25780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="0" key="#fu" timestamp="1579418678424">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="0" key="#fu/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1579418678424" />
+    <state width="1286" height="178" key="GridCell.Tab.0.bottom" timestamp="1579509435020">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1579509435020" />
+    <state width="1317" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1360.738@1366.0.1360.738" timestamp="1579498945436" />
+    <state width="1286" height="178" key="GridCell.Tab.0.center" timestamp="1579509435020">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1579509435020" />
+    <state width="1317" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1360.738@1366.0.1360.738" timestamp="1579498945436" />
+    <state width="1286" height="178" key="GridCell.Tab.0.left" timestamp="1579509435020">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1579509435020" />
+    <state width="1317" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1360.738@1366.0.1360.738" timestamp="1579498945436" />
+    <state width="1286" height="178" key="GridCell.Tab.0.right" timestamp="1579509435020">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1579509435020" />
+    <state width="1317" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1360.738@1366.0.1360.738" timestamp="1579498945436" />
+    <state width="1286" height="178" key="GridCell.Tab.1.bottom" timestamp="1579509435021">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1579509435021" />
+    <state width="1286" height="178" key="GridCell.Tab.1.center" timestamp="1579509435020">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.1.center/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1579509435020" />
+    <state width="1286" height="178" key="GridCell.Tab.1.left" timestamp="1579509435020">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.1.left/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1579509435020" />
+    <state width="1286" height="178" key="GridCell.Tab.1.right" timestamp="1579509435021">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1286" height="178" key="GridCell.Tab.1.right/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1579509435021" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1579418819154">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1579418819154" />
+    <state x="363" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1579512391430">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1360.738@0.0.1366.738" timestamp="1579512391430" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pyaaz$fu.coverage" NAME="fu Coverage Results" MODIFIED="1579419403815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/src" />
+    <SUITE FILE_PATH="coverage/Pyaaz$numpyarry.coverage" NAME="numpyarry Coverage Results" MODIFIED="1579495528831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/src" />
+    <SUITE FILE_PATH="coverage/Pyaaz$numpyses.coverage" NAME="numpyses Coverage Results" MODIFIED="1579449790388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/src" />
+    <SUITE FILE_PATH="coverage/Pyaaz$numpybroad.coverage" NAME="numpybroad Coverage Results" MODIFIED="1579500459983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/src" />
+  </component>
+</project>
